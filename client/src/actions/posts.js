@@ -1,16 +1,12 @@
 import * as api from '../api';
 
-const getPosts =() =>  async (dispatch) => {
+export const getPosts =() =>  async (dispatch) => {
     try {
         const { data } = await api.fetchPosts();
-    } catch (error) {
         
+        dispatch({ type: 'FECTH_ALL', payload: [] });
+    } catch (error) {
+        console.log(error.message);
     }
 
-
-
-
-    const action = { type: 'FECTH_ALL', payload: [] }
-
-    dispatch(action);
 }
