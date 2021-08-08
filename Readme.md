@@ -20,21 +20,13 @@
     <li>Html</li>
     <li>CSS </li>
     <li>Javascript </li>
-    <li>Canvas </li>
+    <li>React </li>
+    <li>Redux </li>
+    <li>Express </li>
+    
+    
 </ul>
 
-<br>
-
-## Contributors 🌟
-
-Thanks goes to these wonderful people ✨✨:
-
-<a href="https://github.com/techakhil-me/whiteboard/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=techakhil-me/whiteboard" />
-</a>
-
-<hr>
-<br>
 <br>
 
 
