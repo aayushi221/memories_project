@@ -1,39 +1,16 @@
 <h1 align="center">Introduction 👩🏻‍💻👨🏻‍💻 </h1>
 
 
-<p align="center"> <strong>Whiteboard offers a delightful, modern mobile learning experience. Whiteboard is magic slate for everyone</strong></p>
+<p align="center"> <strong>This is a project I made to learn about MERN stack. </strong></p>
 
 <br>
 <br>
 
 <h1 align="center">About 🧠 </h1>
 
-<p> App which allows users to type, draw, scribble, stack, create shapes, and much more – all on an infinite cloud-based workspace.</p>
+<p> This web-app is called MEMORIES. In here, you can post, comment and like your favourite memories. It contains all the CRUD apllications. Memories is a project in which various tech stack is used and hence is a full stack project.</p>
 <br>
 <p></p>
-<br>
-
-
-
-<h1 align="center">App Panel 🎮 </h1>
-
-
-<p align="center"><strong ><code>Landing Page</code></strong></p>
-
-![LandingPage](https://cdn.discordapp.com/attachments/856129069674397726/861648049302274098/unknown.png)
-
-
-<p align="center"><strong>Todo List functionality in Whiteboard</strong></p>
-
-![Levels](https://cdn.discordapp.com/attachments/856129069674397726/861648793937772565/unknown.png)
-
-<p align="center"><strong>User can select Diffrent Color pen</strong></p>
-
-![lost](https://cdn.discordapp.com/attachments/856129069674397726/861649053578166312/unknown.png)
-
-<p align="center"><strong>Dark Mode - Theme</strong></p>
-
-![bricks](https://cdn.discordapp.com/attachments/856129069674397726/861649420179996742/unknown.png)
 
 <br>
 
