@@ -43,4 +43,4 @@ Contribution to this repos are always welcome. You can always upgrade the UI, or
     3. Enjoy adding the feature<br>
 </p>
 
-P.s. : I am still working on this project, it will be completed soon.
+P.s. : I am still working on this project, it will be completed soon. I hope you guys would like it. 
