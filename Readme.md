@@ -1,7 +1,7 @@
 <h1 align="center">Introduction 👩🏻‍💻👨🏻‍💻 </h1>
 
 
-<p align="center"> <strong>This is a project I made to learn about MERN stack. </strong></p>
+<p align="center"> <strong>This is a project I made to learn about MERN stack. I will be using the tech stack to learn scalability.  </strong></p>
 
 <br>
 <br>
